@@ -26,8 +26,8 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on todo app using React-Redux
-- 🌱 I’m currently learning React and Redux 
+- 🔭 I’m currently working on NoteKeeper with Flutter
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 🤔 I’m looking for help with sleeping for 12 hours in 2 hours 😄

@@ -1,4 +1,4 @@
-## Howdy 👋, I am Owonubi Job Sunday (CountryBoy), a Full Stack Developer ##
+## Howdy 👋 There! My name is Owonubi Job Sunday (CountryBoy), I am a Software Engineer. ##
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jobic10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobic10/)
@@ -6,6 +6,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jobic10)](https://twitter.com/jobic10)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jobowonubi/)](https://medium.com/@jobowonubi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jobowonubi@gmail.com)
+<a href="https://wa.me/2348100134741?text=Hi Job">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
 &nbsp;
 
 ### About Me ###

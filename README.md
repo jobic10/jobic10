@@ -26,7 +26,7 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently trying trying to start a new Flutter project
+- 🔭 I’m currently creating a Student Management System using Django
 - 🔭 I’m currently working on NoteKeeper with Flutter - Completed
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on open source project

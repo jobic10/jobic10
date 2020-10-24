@@ -40,7 +40,7 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS,  JavaScript, Dart, Java, Python**
+- Languages - **PHP, HTML, CSS,  JavaScript, Dart, Java, Python**
 - Libraries/Frameworks: - **Bootstrap, Flutter, Django, JQuery, REST API and Laravel(Soon)**
 - Databases/ODM: - **MySQL and Hive**
 - Tools: - **CLI, Git, Github and Developer Tool**

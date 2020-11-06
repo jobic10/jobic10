@@ -26,10 +26,8 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently creating a CRM  System using Django
-- 🔭 I’m currently creating a Student Management System using Django - Completed
-- 🔭 I’m currently working on NoteKeeper with Flutter - Completed
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently creating a Banking  System using Django
+- 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 🤔 I’m looking for help with sleeping for 12 hours in 2 hours 😄

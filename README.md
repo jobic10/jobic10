@@ -20,7 +20,7 @@
 - P5.js
 - Researcher
 
-Currently, I am learning Mobile Development (Flutter).
+Currently, I am learning Django Framework.
 I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
 Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 

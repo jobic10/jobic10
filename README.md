@@ -30,7 +30,6 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
-- 🤔 I’m looking for help with sleeping for 12 hours in 2 hours 😄
 - 📫 How to reach me: jobowonubi@gmail.com
 - 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01c2221ed7cfb688ff/)
 - 📫 Read my blogs: [https://github.com/jobic10](https://github.com/jobic10)

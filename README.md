@@ -32,14 +32,13 @@ Currently, I am in my B.Sc. Computer Science finals in [University of Ilorin, Il
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com
 - 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01c2221ed7cfb688ff/)
-- 📫 Read my blogs: [https://github.com/jobic10](https://github.com/jobic10)
-- 🎯 Portfolio site: [https://github.com/jobic10](https://github.com/jobic10)
+
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, HTML, CSS,  JavaScript, Dart, Java, Python**
+- Languages - **PHP, HTML, C++, JavaScript, Dart, Java, Python**
 - Libraries/Frameworks: - **Bootstrap, Flutter, Django, JQuery, REST API and Laravel(Soon)**
-- Databases/ODM: - **MySQL and Hive**
+- Databases/ODM: - **MySQL, MongoDB & Postgres**
 - Tools: - **CLI, Git, Github and Developer Tool**
 
 ### Languages and Tools:

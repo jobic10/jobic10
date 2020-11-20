@@ -1,5 +1,5 @@
 ##  👋
-## Howdy! My name is Owonubi Job Sunday (CountryBoy), I am a Software Engineer. ##
+## Howdy! My name is Owonubi Job Sunday (CountryBoy), I am a Software Engineer.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jobic10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobic10/)
@@ -27,13 +27,11 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently creating a Banking  System using Django
+- 🔭 I’m currently creating a Banking System using Django
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com
-- 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01c2221ed7cfb688ff/)
-
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------

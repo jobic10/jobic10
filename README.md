@@ -20,7 +20,7 @@
 - P5.js
 - Researcher
 
-Currently, I am learning Laravel and Vue JS.
+Currently, I am learning Laravel and Vue JS (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
 I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
 At this instance, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 

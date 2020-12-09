@@ -62,4 +62,4 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 <br />
 
 
-![My's github stats](https://github-readme-stats.vercel.app/api?username=jobic10&hide=["issues"]&show_icons=true)
+![My's github stats](https://github-readme-stats.vercel.app/api?username=jobic10&theme=dark&hide=["issues"]&show_icons=true)

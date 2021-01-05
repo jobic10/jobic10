@@ -29,7 +29,7 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 <!--
 - 🔭 I’m currently creating a Banking System using Django
 !-->
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Laravel LiveWire
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com

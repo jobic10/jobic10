@@ -22,7 +22,7 @@
 
 Currently, I am learning Laravel and Inertia JS (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
 I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
-At this instance, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
+I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

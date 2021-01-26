@@ -37,7 +37,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **PHP, HTML, C++, JavaScript, Dart, Java, Python**
-- Libraries/Frameworks: - **Bootstrap, Flutter, Django, JQuery, REST API and Laravel**
+- Libraries/Frameworks: - **Alpine JS, Bootstrap, Flutter, Django, JQuery, REST API and Laravel**
 - Databases/ODM: - **MySQL, MongoDB & Postgres**
 - Tools: - **CLI, Git, Github and Developer Tool**
 

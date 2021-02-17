@@ -27,7 +27,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently creating a User Management System (With Laravel 8)
+- 🔭 I’m currently an E-Commerce Project (With Laravel 8)
 - 🌱 Still learning Laravel
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything

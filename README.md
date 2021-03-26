@@ -14,7 +14,7 @@
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Data Structure and Algorithms
-- Web Development
+- Web Development (Django - Laravel)
 - Mobile Development (In Progress)
 - AI et ML (In view)
 - P5.js

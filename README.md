@@ -20,14 +20,14 @@
 - P5.js
 - Researcher
 
-Currently, I am learning Laravel (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
+Currently, I am learning Django (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
 I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
 I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently an E-Learning Project (With Django)
+- 🔭 I’m currently working on an E-Learning Project (With Django)
 - 🌱 Still learning Laravel and Django
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything

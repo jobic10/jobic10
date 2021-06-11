@@ -28,7 +28,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 
 
 - 🔭 I’m currently working on an E-Learning Project (With Django)
-- 🌱 Still learning Laravel and Django
+- 🌱 Still learning Django
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com

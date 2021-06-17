@@ -63,5 +63,10 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 <br />
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobic10&theme=onedark)](https://github.com/jobic10)
+ <br />
+<br />
+
+
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=jobic10&theme=dark&hide=["issues"]&show_icons=true)

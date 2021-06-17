@@ -63,10 +63,16 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 <br />
 <br />
 
+### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=jobic10&theme=onedark)](https://github.com/jobic10)
  <br />
 <br />
 
+### Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobic10)](https://github.com/jobic10)
 
-
+### Github Stats
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=jobic10&theme=dark&hide=["issues"]&show_icons=true)
+
+### Github Visitors
+![My Github Visitors](https://komarev.com/ghpvc/?username=jobic10&color=blueviolet)

@@ -58,6 +58,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django"/>
 <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" />
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart" />

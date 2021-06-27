@@ -12,6 +12,14 @@
 &nbsp;
 
 ### About Me ###
+<p>
+ <img src="https://badges.pufler.dev/visits/jobic10/jobic10"/> 
+ <img src="https://badges.pufler.dev/repos/jobic10"/>
+ <img src="https://badges.pufler.dev/commits/monthly/jobic10" />
+ <img src="https://badges.pufler.dev/commits/daily/jobic10" />
+ <img src="https://badges.pufler.dev/commits/yearly/jobic10" />
+<img src="https://komarev.com/ghpvc/?username=jobic10&color=blueviolet" />
+</p>
 ----------------------------------------------------------------------------------------------------------------------------
 - Data Structure and Algorithms
 - Web Development (Django - Laravel)
@@ -65,11 +73,23 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
  <br />
 <br />
 
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
 ### Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobic10)](https://github.com/jobic10)
 
 ### Github Stats
-![My's github stats](https://github-readme-stats.vercel.app/api?username=jobic10&theme=dark&hide=["issues"]&show_icons=true)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=jobic10&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jobic10&theme=radical">
+</p>
 
-### Github Visitors
-![My Github Visitors](https://komarev.com/ghpvc/?username=jobic10&color=blueviolet)
+### Contribution
+<p align="center">
+<img src = "https://activity-graph.herokuapp.com/graph?username=jobic10&theme=redical"  />
+</p>
+
+
+

@@ -11,7 +11,7 @@
 </a>
 &nbsp;
 
-### About Me ###
+### About Me
 <p>
 <!--  <img src="https://badges.pufler.dev/visits/jobic10/jobic10"/>  -->
  <img src="https://badges.pufler.dev/repos/jobic10"/>

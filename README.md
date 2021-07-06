@@ -84,7 +84,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 ### Github Stats
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=jobic10&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jobic10&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jobic10&theme=radical&hide=javascript">
 </p>
 
 ### Contribution

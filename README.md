@@ -19,7 +19,7 @@
  <img src="https://badges.pufler.dev/commits/yearly/jobic10" />
 <img src="https://komarev.com/ghpvc/?username=jobic10&color=blueviolet" />
 </p>
-----------------------------------------------------------------------------------------------------------------------------
+
 - Data Structure and Algorithms
 - Web Development (Django - Laravel)
 - Mobile Development (In Progress)

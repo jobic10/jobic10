@@ -21,7 +21,7 @@
 </p>
 
 - Data Structure and Algorithms
-- Web Development (Django - Laravel)
+- Web Development (Django)
 - Mobile Development (In Progress)
 - AI et ML (In view)
 - P5.js

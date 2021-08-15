@@ -27,10 +27,11 @@
 - P5.js
 - Researcher
 
-Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
+### Educational Background
+- [x] 4 years National Diploma and Higher National Diploma in Computer Science - [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
+- [x] B.Sc. Computer Science - [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 
-I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
-I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
+Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -43,7 +44,7 @@ I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, Dart, Python**
+- Languages - **PHP, Dart and Python**
 - Libraries/Frameworks: - **Flutter and Django**
 - Databases/ODM: - **MySQL**
 - Tools: - **CLI, Git, Github and Developer Tool**

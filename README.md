@@ -38,7 +38,7 @@ Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic1
 
 <!-- - 🔭 I’m currently working on an E-Learning Project (With Django) -->
 - 🌱 Still learning Dart/Flutter
-- 👯 I’m looking to collaborate on open source project
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com
 

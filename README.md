@@ -81,7 +81,7 @@ Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic1
 ### Github Stats
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=jobic10&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jobic10&theme=radical&hide=javascript">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jobic10&hide=javascript,html,css,java,scss,vue,c++,blade,less&theme=radical">
 </p>
 
 ### Contribution

@@ -67,7 +67,7 @@ Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic1
 </p><br />
 
 ### Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobic10&theme=onedark)](https://github.com/jobic10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobic10&theme=radical)](https://github.com/jobic10)
  <br />
 <br />
 

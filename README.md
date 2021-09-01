@@ -25,7 +25,7 @@
 - Mobile Development (In Progress)
 - AI et ML (In view)
 - P5.js
-- Researcher
+- Academic Researcher
 
 ### Educational Background
 - [x] 4 years National Diploma and Higher National Diploma in Computer Science - [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).

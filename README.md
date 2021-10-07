@@ -22,7 +22,7 @@
 
 - Data Structure and Algorithms
 - Web Development (Django)
-- Mobile Development (In Progress)
+- Mobile Development (Paused)
 - AI et ML (In view)
 - P5.js
 - Academic Researcher
@@ -31,7 +31,7 @@
 - [x] 4 years National Diploma and Higher National Diploma in Computer Science - [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
 - [x] B.Sc. Computer Science - [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 
-Currently, I am learning Dart/Flutter (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
+Currently, I am learning Laravel (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

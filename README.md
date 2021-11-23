@@ -24,7 +24,6 @@
 - Web Development (Django)
 - Mobile Development (Paused)
 - AI et ML (In view)
-- P5.js
 - Academic Researcher
 
 ### Educational Background

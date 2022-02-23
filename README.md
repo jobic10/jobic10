@@ -35,8 +35,8 @@ Currently, I am learning Laravel 8 (Check my [repo](https://github.com/jobic10?t
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<!-- - 🔭 I’m currently working on an E-Learning Project (With Django) -->
-- 🌱 Still learning Dart/Flutter
+<!-- - 🔭 I’m currently working on an E-Learning Project (With Django) 
+- 🌱 Still learning Dart/Flutter -->
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com

@@ -1,4 +1,4 @@
-## Hi, I'm Owonubi Job Sunday (CountryBoy); you can call me *Job* not *job* 😆.
+## Hi, I'm Owonubi Job Sunday (CountryBoy); you can call me *Job* not *job*.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jobic10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobic10/)

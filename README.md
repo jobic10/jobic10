@@ -9,7 +9,7 @@
 <a href="https://wa.me/2348100134741?text=Hi Job">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
-&nbsp;
+
 
 ### About Me
 <p>

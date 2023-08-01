@@ -30,7 +30,8 @@
 - [x] B.Sc. Computer Science - [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
 - [x] National Diploma and Higher National Diploma in Computer Science - [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
 
-Currently, I am building a result portal for a private institution. You can check my [repo](https://github.com/jobic10?tab=repositories) for more pending or completed projects.
+Currently, I am building a massive project for the company I currently work for. 
+You can check my [repo](https://github.com/jobic10?tab=repositories) for more pending or completed projects.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 

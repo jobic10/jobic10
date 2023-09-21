@@ -22,7 +22,7 @@
 
 - Data Structure and Algorithms
 - Web Development (Django)
-- Mobile Development (Paused)
+- Mobile Development (Flutter)
 - AI et ML (In view)
 - Academic Researcher
 
